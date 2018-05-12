@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '43163'
     url: http://www.gutenberg.org/2009/agents/43163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45235#Magic-Stage-Illusions-and-Scientific-Diversions-Including-Trick-Photography
 gutenberg_issued: '2014-03-27'
 gutenberg_type: Text
 identifiers:
